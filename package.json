@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["Koa", "Node"],
-  "author": "Ruan Yifeng",
+  "author": "Demo",
   "license": "ISC",
   "dependencies": {
     "fs.promised": "^3.0.0",
